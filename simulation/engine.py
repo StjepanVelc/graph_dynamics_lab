@@ -1,5 +1,3 @@
-# simulation/engine.py
-
 from core.state import State
 from core.evolution import EvolutionRule
 

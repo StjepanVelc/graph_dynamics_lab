@@ -1,5 +1,3 @@
-# core/evolution.py
-
 from core.graph import Graph
 from core.state import State
 

@@ -1,5 +1,3 @@
-# visualization/graph_view.py
-
 import matplotlib.pyplot as plt
 from core.state import State
 from matplotlib.animation import FuncAnimation

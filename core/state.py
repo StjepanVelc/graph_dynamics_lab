@@ -1,5 +1,3 @@
-# core/state.py
-
 import math
 from typing import List, Union
 

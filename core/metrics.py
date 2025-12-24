@@ -1,5 +1,3 @@
-# core/metrics.py
-
 import math
 from core.state import State
 

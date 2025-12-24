@@ -1,5 +1,3 @@
-# simulation/scenarios.py
-
 from core.graph import Graph
 import cmath
 

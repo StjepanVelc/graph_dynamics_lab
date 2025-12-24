@@ -1,6 +1,3 @@
-# core/graph.py
-
-
 class Graph:
     def __init__(self, num_nodes: int):
         self.num_nodes = num_nodes
